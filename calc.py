@@ -23,3 +23,4 @@ print 'stddev is', stddev
 print 'sum sq diffs', sumsqdiffs #adding a comment
 
 print 'frances made a change'
+print 'and another online'
